@@ -281,6 +281,45 @@
   ]
  },
  {
+  "nombre": "FIND (concepto, web.love.ed)",
+  "url": "https://www.findrealestate.com/",
+  "pais": "EE.UU. (Nueva York)",
+  "nota": "Hero 'Find What Moves You' con edificio sobre nubes y CTA 'Find Properties'. Comparación visual: la web real findrealestate.com es el mismo diseño (mismo hero, tipografía, edificio, nubes, menú y botón Sign In). El reel lo presenta como hecho con IA (el autor vende un curso). Instagram: https://www.instagram.com/web.love.ed/",
+  "imagenes": [
+   "img/find-concepto-web-love-ed-0.webp",
+   "img/find-concepto-web-love-ed-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "concepto",
+  "criterios": [],
+  "etiquetas": [
+   "Diseño web",
+   "Concepto UI hecho con IA"
+  ]
+ },
+ {
+  "nombre": "Poklonnaya 9",
+  "url": "https://poklonnaya9.site/",
+  "pais": "Rusia (Moscú)",
+  "nota": "Fondo negro, nombre gigante en tipografía fina que cruza la imagen nocturna del edificio, selector de apartamentos y 'Request a call'. Awwwards SOTD (Vide Infra).",
+  "imagenes": [
+   "img/poklonnaya-9-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "concepto",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Similar a: Vanity Estates",
+   "Similar a: Zillow (concepto)",
+   "Diseño web",
+   "Lujo oscuro"
+  ]
+ },
+ {
   "nombre": "Silver Pinewood Residences",
   "url": "https://silver-pinewood.com/",
   "pais": "Rusia",
