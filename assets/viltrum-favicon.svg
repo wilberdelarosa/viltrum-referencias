@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Viltrum Tek</title>
+  <rect width="64" height="64" rx="14" fill="#faf8f2"/>
+  <path d="M10 16H21L32 34 43 16H54L32 51Z" fill="#171619"/>
+  <path d="M4 31Q32 27.7 60 31Q32 34.3 4 31Z" fill="#d8a33d"/>
+</svg>
