@@ -28,19 +28,18 @@
  },
  {
   "nombre": "Quisqueya Home",
-  "url": "https://quisqueya.com",
-  "pais": "RD",
-  "nota": "Referencia indicada por Wilber. Al verificar (24-oct) el certificado HTTPS es inválido para el dominio y la página carga en blanco (sin contenido visible); revisar URL correcta.",
-  "imagenes": [
-   "img/quisqueya-home-0.webp"
-  ],
-  "estandar": true,
+  "url": "https://quisqueyahome.com",
+  "pais": "",
+  "nota": "",
+  "imagenes": [],
+  "estandar": false,
   "coincide": "no-verificable",
   "tipo": "real",
-  "criterios": [],
+  "criterios": [
+   "scroll"
+  ],
   "etiquetas": [
-   "Ejemplo de diseño",
-   "Estándar de referencia (por ahora)"
+   "RD"
   ]
  },
  {
