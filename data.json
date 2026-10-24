@@ -10,7 +10,10 @@
   "criterios": [
    "scroll",
    "mapa",
-   "broker"
+   "broker",
+   "tipo",
+   "detras",
+   "glass"
   ],
   "etiquetas": [
    "Broker personal",
@@ -244,7 +247,8 @@
   "tipo": "real",
   "criterios": [
    "scroll",
-   "amenidades"
+   "amenidades",
+   "unidades"
   ],
   "etiquetas": [
    "scroll/animación",
@@ -498,7 +502,10 @@
   "estandar": false,
   "coincide": "no",
   "tipo": "concepto",
-  "criterios": [],
+  "criterios": [
+   "tipo",
+   "glass"
+  ],
   "etiquetas": [
    "Diseño web",
    "Concepto UI (no sitio real)",
@@ -538,12 +545,148 @@
   "estandar": false,
   "coincide": "no",
   "tipo": "concepto",
-  "criterios": [],
+  "criterios": [
+   "tipo",
+   "glass",
+   "hotspots"
+  ],
   "etiquetas": [
    "Diseño web",
    "Concepto UI (no sitio real)",
    "Tipografía gigante",
    "Hotspots glass"
+  ]
+ },
+ {
+  "nombre": "ERA Residence",
+  "url": "https://www.era-residence.com",
+  "pais": "España (Estepona)",
+  "nota": "Awwwards Site of the Month (ago-2026). Preloader elegante, tema día/noche en el hero, fichas de propiedad animadas y scroll con parallax.",
+  "imagenes": [
+   "img/era-residence-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Hero tipográfico gigante",
+   "Scroll narrativo",
+   "Modo día/noche"
+  ]
+ },
+ {
+  "nombre": "Realevate",
+  "url": "https://realevate.agency/",
+  "pais": "Chipre / Montenegro / Georgia",
+  "nota": "Awwwards SOTD (27-sep-2026). Titular gigante que corre horizontal con una foto encajada en medio de las letras; fondo blanco muy limpio.",
+  "imagenes": [
+   "img/realevate-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "tipo",
+   "detras"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Hero tipográfico gigante",
+   "Texto detrás del objeto",
+   "Limpio blanco"
+  ]
+ },
+ {
+  "nombre": "Sobha Privy Collection",
+  "url": "https://sobha-privy-collection.com/",
+  "pais": "EAU (Dubái)",
+  "nota": "Awwwards SOTD (23-sep-2026). Escultura 3D negra en el hero con serif itálica «The art of the sublime»; lujo silencioso.",
+  "imagenes": [
+   "img/sobha-privy-collection-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Hero tipográfico gigante",
+   "Scroll narrativo",
+   "Lujo oscuro",
+   "3D"
+  ]
+ },
+ {
+  "nombre": "LIKOVA",
+  "url": "https://likova.space",
+  "pais": "Ucrania",
+  "nota": "Awwwards SOTD (19-ago-2026). Centro de negocios clase A: logotipo enorme en bloque blanco sobre render del edificio.",
+  "imagenes": [
+   "img/likova-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Hero tipográfico gigante",
+   "Scroll narrativo"
+  ]
+ },
+ {
+  "nombre": "Mr. C Residences Boca Raton",
+  "url": "https://mrcresidencesbocaraton.com",
+  "pais": "EE.UU. (Florida)",
+  "nota": "Awwwards (nominado). Hero con video a pantalla completa y menú lateral con residencias, amenidades, vecindario y galería.",
+  "imagenes": [
+   "img/mr-c-residences-boca-raton-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "amenidades"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Video hero",
+   "Amenidades",
+   "Galería"
+  ]
+ },
+ {
+  "nombre": "360 Lexington Ave",
+  "url": "https://360lexingtonave.com",
+  "pais": "EE.UU. (Nueva York)",
+  "nota": "Awwwards Honorable Mention (1-sep-2026). Oficinas: foto interior a pantalla completa con tarjetas de acceso a retail/oficinas.",
+  "imagenes": [
+   "img/360-lexington-ave-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "recorrido",
+   "glass",
+   "unidades"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Selector de unidades",
+   "Recorrido virtual",
+   "Glass/blur"
   ]
  }
 ]

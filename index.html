@@ -45,7 +45,7 @@ footer{text-align:center;color:var(--mute);font-size:12px;padding:0 24px 40px}
 <dialog id="dlg" aria-label="Captura ampliada"><img id="dimg" alt=""><div class="dnav"><button class="chip" id="dprev">← Anterior</button><button class="chip" id="dclose">Cerrar</button><button class="chip" id="dnext">Siguiente →</button></div></dialog>
 <footer>Viltrum Tek · Uso interno · Actualizado <span id="upd"></span></footer>
 <script>
-const C={scroll:'Scroll',mapa:'Mapa',amenidades:'Amenidades',recorrido:'Recorrido',broker:'Broker personal'},T={real:'Web real',concepto:'Concepto'},
+const C={scroll:'Scroll',mapa:'Mapa',amenidades:'Amenidades',recorrido:'Recorrido',broker:'Broker personal',tipo:'Hero tipográfico',detras:'Texto detrás del objeto',glass:'Glass / blur',linea:'Línea animada',hotspots:'Hotspots',unidades:'Selector de unidades'},T={real:'Web real',concepto:'Concepto'},
 CO={si:'Coincide: sí',no:'Coincide: no',parcial:'Similar',na:'Benchmark','no-verificable':'No verificable'};
 let D=[],on=new Set(),tipo=null,cur=[],ci=0;const $=s=>document.querySelector(s);
 function chip(lbl,f){const b=document.createElement('button');b.className='chip';b.textContent=lbl;b.setAttribute('aria-pressed','false');b.onclick=()=>{f(b);render()};return b}
