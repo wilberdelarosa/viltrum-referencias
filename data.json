@@ -524,5 +524,80 @@
    "Recorrido virtual",
    "Glass/blur"
   ]
+ },
+ {
+  "nombre": "Joyce Rey",
+  "url": "https://www.joycerey.com/",
+  "pais": "EE.UU. (Beverly Hills)",
+  "nota": "Awwwards Nominee (Luxury Presence). Web de agente personal: hero con foto de casa de lujo a pantalla completa y titular serif gigante 'GLOBAL LUXURY REAL ESTATE' con eyebrow 'NEARLY $7 BILLION IN REAL ESTATE SALES'; firma manuscrita como logo; carrusel de tarjetas redondeadas 'Homes that inspire' (precio, BD/BA/SQFT); menú Resume, Team, Properties, Communities, Press, Testimonials; Home Search.",
+  "imagenes": [
+   "img/joyce-rey-0.webp",
+   "img/joyce-rey-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Broker personal",
+   "Tipografía gigante",
+   "Serif sobre foto a pantalla completa",
+   "Lujo"
+  ]
+ },
+ {
+  "nombre": "Belgrade Arbor",
+  "url": "https://belgradearbor.rs/en",
+  "pais": "Serbia (Belgrado)",
+  "nota": "Awwwards Site of the Day 17-oct-2026 + Developer Award (Square43 Studio). Complejo residencial y de negocios en Nuevo Belgrado: hero con boceto arquitectónico a lápiz sobre crema, menú en pastilla oscura flotante (MENU / INQUIRE), transición a bloque verde con serif grande e imágenes recortadas en formas orgánicas; secciones 3D Experience, Residences, Business, Retail, Location ('What's around' con minutos), Amenities; ENG/SRB.",
+  "imagenes": [
+   "img/belgrade-arbor-0.webp",
+   "img/belgrade-arbor-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades",
+   "recorrido"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "SOTD",
+   "Experiencia 3D",
+   "Menú pastilla flotante",
+   "Serif editorial",
+   "Ilustración arquitectónica"
+  ]
+ },
+ {
+  "nombre": "Jen Lundstrom (Dribbble, Hazir Labs)",
+  "url": "https://www.jenlundstrom.com/",
+  "pais": "EE.UU. (Bend, Oregón)",
+  "nota": "Shot de Dribbble de Hazir Labs para una Principal Broker (500+ cierres). Hero con foto cálida a pantalla completa (persona y perro en pradera al atardecer), titular 'Helping people find their way home.' con 'home' en script manuscrito, CTA 'Start a conversation'; paleta salvia/crema en lugar del azul-dorado típico; tarjetas de servicios (Buying & Selling, Life Transition Planning, Realtor Consulting, AI Home Buying & Selling Program 'Coming soon'); credenciales discretas junto a la foto.",
+  "imagenes": [
+   "img/jen-lundstrom-dribbble-hazir-labs-0.webp",
+   "img/jen-lundstrom-dribbble-hazir-labs-1.webp",
+   "img/jen-lundstrom-dribbble-hazir-labs-2.webp",
+   "img/jen-lundstrom-dribbble-hazir-labs-3.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker"
+  ],
+  "etiquetas": [
+   "Dribbble",
+   "Broker personal",
+   "Limpio crema/salvia",
+   "Acento script",
+   "Tarjetas de servicios"
+  ]
  }
 ]
