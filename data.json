@@ -291,7 +291,7 @@
   ],
   "estandar": false,
   "coincide": "si",
-  "tipo": "concepto",
+  "tipo": "real",
   "criterios": [],
   "etiquetas": [
    "Diseño web",
@@ -308,7 +308,7 @@
   ],
   "estandar": false,
   "coincide": "parcial",
-  "tipo": "concepto",
+  "tipo": "real",
   "criterios": [
    "scroll"
   ],
