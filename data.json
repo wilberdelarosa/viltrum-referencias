@@ -1,0 +1,469 @@
+[
+ {
+  "nombre": "Andris Peña · Asesor inmobiliario",
+  "url": "https://andrispenarealty.com",
+  "pais": "RD (Punta Cana)",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR.",
+  "estandar": true,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "mapa",
+   "broker"
+  ],
+  "etiquetas": [
+   "Broker personal",
+   "Estándar de referencia",
+   "Glass / blur",
+   "Mapa de proyectos"
+  ],
+  "imagenes": [
+   "img/andris-pe-a-asesor-inmobiliario-0.webp",
+   "img/andris-pe-a-asesor-inmobiliario-1.webp"
+  ]
+ },
+ {
+  "nombre": "Quisqueya Home",
+  "url": "https://quisqueya.com",
+  "pais": "RD",
+  "nota": "Referencia indicada por Wilber. Al verificar (24-oct) el certificado HTTPS es inválido para el dominio y la página carga en blanco (sin contenido visible); revisar URL correcta.",
+  "imagenes": [
+   "img/quisqueya-home-0.webp"
+  ],
+  "estandar": true,
+  "coincide": "no-verificable",
+  "tipo": "real",
+  "criterios": [],
+  "etiquetas": [
+   "Ejemplo de diseño",
+   "Estándar de referencia (por ahora)"
+  ]
+ },
+ {
+  "nombre": "Cap Cana",
+  "url": "https://capcana.com",
+  "pais": "RD",
+  "nota": "Hero con video aéreo a pantalla completa y tipografía serif elegante; comunica 'master-planned' con mapa del destino.",
+  "imagenes": [
+   "img/cap-cana-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "mapa",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "video",
+   "mapa",
+   "masterplan",
+   "amenidades",
+   "galería"
+  ]
+ },
+ {
+  "nombre": "Puntacana Resort & Club",
+  "url": "https://www.puntacana.com/en/",
+  "pais": "RD",
+  "nota": "Resort-comunidad de 15.000 acres: storytelling de amenidades (golf, marina, reserva ecológica) con mapa y galería.",
+  "imagenes": [
+   "img/puntacana-resort-club-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "mapa",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "video",
+   "mapa",
+   "amenidades",
+   "galería"
+  ]
+ },
+ {
+  "nombre": "Noval Properties",
+  "url": "https://novalproperties.com",
+  "pais": "RD",
+  "nota": "Promotora dominicana: slider hero, scroll suave (Lenis), navegación por destinos (Cap Cana, Punta Cana, Las Terrenas, Jarabacoa, SD) y secciones Inversionistas/Brokers.",
+  "imagenes": [
+   "img/noval-properties-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "scroll/animación",
+   "video",
+   "buscador"
+  ]
+ },
+ {
+  "nombre": "Tulum Country Club",
+  "url": "https://www.tulumcountryclub.com/es/",
+  "pais": "México",
+  "nota": "Catálogo filtrable Todos/Propiedades/Lotes con precio 'a partir de' por proyecto; secciones de amenidades, golf y financiamiento.",
+  "imagenes": [
+   "img/tulum-country-club-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "mapa",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "mapa",
+   "amenidades",
+   "galería",
+   "video",
+   "buscador"
+  ]
+ },
+ {
+  "nombre": "Punta Mita",
+  "url": "https://www.puntamita.com",
+  "pais": "México",
+  "nota": "Comunidad de 1.500 acres en península; fotografía inmersiva y sección Real Estate separada de Rentals/Hotels.",
+  "imagenes": [
+   "img/punta-mita-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "mapa",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "mapa",
+   "amenidades",
+   "galería",
+   "video"
+  ]
+ },
+ {
+  "nombre": "Costa Mujeres",
+  "url": "https://costamujeres.com/en",
+  "pais": "México",
+  "nota": "Diseño editorial tipo revista con mapa para 'encontrar tu rincón' (stays, restaurantes, isla); útil como modelo de mapa de amenidades de zona.",
+  "imagenes": [
+   "img/costa-mujeres-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "mapa"
+  ],
+  "etiquetas": [
+   "mapa",
+   "galería",
+   "buscador"
+  ]
+ },
+ {
+  "nombre": "VidantaWorld",
+  "url": "https://vidantaworld.com/en",
+  "pais": "México",
+  "nota": "Buscador de reserva arriba (hotel/fechas/huéspedes) y tarjetas por destino; patrón de búsqueda + catálogo.",
+  "imagenes": [
+   "img/vidantaworld-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "amenidades"
+  ],
+  "etiquetas": [
+   "video",
+   "galería",
+   "buscador"
+  ]
+ },
+ {
+  "nombre": "Hudson Yards",
+  "url": "https://www.hudsonyardsnewyork.com",
+  "pais": "EE.UU.",
+  "nota": "Distrito mixto (residencias, tiendas, hotel) con navegación por verticales y agenda de eventos; modelo de 'portal de comunidad'.",
+  "imagenes": [
+   "img/hudson-yards-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "amenidades"
+  ],
+  "etiquetas": [
+   "amenidades",
+   "galería",
+   "buscador"
+  ]
+ },
+ {
+  "nombre": "The Well Bay Harbor",
+  "url": "https://www.thewellbayharbor.com",
+  "pais": "EE.UU.",
+  "nota": "Proyecto de wellness residencial en Miami: secciones Residences/Offices/Neighborhood, planos y multilenguaje EN/ES/PT.",
+  "imagenes": [
+   "img/the-well-bay-harbor-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "amenidades"
+  ],
+  "etiquetas": [
+   "amenidades",
+   "galería",
+   "video",
+   "planos"
+  ]
+ },
+ {
+  "nombre": "Aston Martin Residences",
+  "url": "https://www.astonmartinresidences.com",
+  "pais": "EE.UU.",
+  "nota": "Home en bloques a pantalla completa con 'Explore' por sección (Floorplans, Sky Amenities, Location, Gallery); branding de lujo.",
+  "imagenes": [
+   "img/aston-martin-residences-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "scroll/animación",
+   "planos/unidades",
+   "amenidades",
+   "galería",
+   "video"
+  ]
+ },
+ {
+  "nombre": "Real Estate Mobile App UI/UX (kg_graphics_design)",
+  "url": "https://www.instagram.com/reel/DdtwIyvPTWd/",
+  "pais": "EE.UU.",
+  "nota": "Concepto de app (65+ pantallas, Figma): buscador con filtros, chips Apartment/House/Villas, tarjetas Featured Listing con precio, rating, camas/baños/sqft y favorito, Nearby Properties con pestañas All/Buy/Rent/Popular y barra inferior. Fuente: post de Instagram. Es un concepto de app; no hay web real.",
+  "imagenes": [
+   "img/real-estate-mobile-app-ui-ux-kg-graphics-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "no",
+  "tipo": "concepto",
+  "criterios": [],
+  "etiquetas": [
+   "App móvil",
+   "Diseño UI (concepto Figma, no sitio real)"
+  ]
+ },
+ {
+  "nombre": "Hooma (concepto, webdesignssphere)",
+  "url": "https://www.instagram.com/webdesignssphere/",
+  "pais": "EAU",
+  "nota": "Landing conceptual de plataforma de descubrimiento de propiedades: hero con tipografía con imágenes incrustadas, buscador (ubicación, precio, habitaciones), listado con filtros laterales, mapa de búsqueda por radio, testimonios con métrica 94% y CTA con foto de playa. Fuente: post de Instagram del 21 sept (sin URL exacta del post). Búsqueda: no se encontró web pública; 'Hooma' de hermanos.be es otro negocio (estancias en Bélgica).",
+  "imagenes": [
+   "img/hooma-concepto-webdesignssphere-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "no",
+  "tipo": "concepto",
+  "criterios": [
+   "mapa"
+  ],
+  "etiquetas": [
+   "Diseño web",
+   "Concepto UI (no sitio real)"
+  ]
+ },
+ {
+  "nombre": "Vanity Estates (vanity.llc)",
+  "url": "https://vanity.llc",
+  "pais": "EE.UU. (Miami)",
+  "nota": "Reel de Vanity Studio LLC (agencia de diseño web de Miami): web 'Vanity Estates' oscura de lujo con foto de interior a pantalla completa, título grande fino y líneas verticales de grilla. No se encontró la web 'Vanity Estates'; vanity.llc es la web de la agencia (hero oscuro 'Design that sells.' con tarjetas flotantes), distinta al diseño del reel. Su caso inmobiliario 'Miami Estates' tampoco coincide (estilo blueprint azul-gris).",
+  "imagenes": [
+   "img/vanity-estates-vanity-llc-0.webp",
+   "img/vanity-estates-vanity-llc-1.webp",
+   "img/vanity-estates-vanity-llc-2.webp",
+   "img/vanity-estates-vanity-llc-3.webp"
+  ],
+  "estandar": false,
+  "coincide": "no",
+  "tipo": "concepto",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Diseño web",
+   "Estilo preferido por Wilber",
+   "Lujo oscuro"
+  ]
+ },
+ {
+  "nombre": "Bernabéu Ático (collective.ia)",
+  "url": "https://bernabeu-atico.vercel.app",
+  "pais": "España (Madrid)",
+  "nota": "Landing de una sola vivienda (Dúplex Bernabéu, Castellana): recorrido por scroll ('Desliza para recorrer la casa') planta por planta con renders, cifras clave (2 plantas, 2 dormitorios, 3 baños, piscina), planos de la vivienda y CTA 'Solicitar visita'. Comparación visual: el reel muestra la URL bernabeu-atico.vercel.app, logo 'BERNABÉU' arriba a la izquierda y el mismo salón blanco que la web.",
+  "imagenes": [
+   "img/bernab-u-tico-collective-ia-0.webp",
+   "img/bernab-u-tico-collective-ia-1.webp",
+   "img/bernab-u-tico-collective-ia-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "Diseño web",
+   "Preventa / vender antes de construir"
+  ]
+ },
+ {
+  "nombre": "FIND (concepto, web.love.ed)",
+  "url": "https://www.findrealestate.com/",
+  "pais": "EE.UU. (Nueva York)",
+  "nota": "Hero 'Find What Moves You' con edificio sobre nubes y CTA 'Find Properties'. Comparación visual: la web real findrealestate.com es el mismo diseño (mismo hero, tipografía, edificio, nubes, menú y botón Sign In). El reel lo presenta como hecho con IA (el autor vende un curso). Instagram: https://www.instagram.com/web.love.ed/",
+  "imagenes": [
+   "img/find-concepto-web-love-ed-0.webp",
+   "img/find-concepto-web-love-ed-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "concepto",
+  "criterios": [],
+  "etiquetas": [
+   "Diseño web",
+   "Concepto UI hecho con IA"
+  ]
+ },
+ {
+  "nombre": "Zillow (concepto, web.design.trends)",
+  "url": "https://www.instagram.com/web.design.trends/",
+  "pais": "EE.UU.",
+  "nota": "Concepto no oficial para Zillow: casa moderna con piscina y palmeras recortada delante de la palabra 'zillow' gigante (texto detrás del objeto, efecto de profundidad); menú Home/Agents/Buy&Rent/Sell/Find an Agent, botón 'Let's Get Started' e iconos sociales laterales. Búsqueda en Behance/Dribbble: no se encontró este concepto publicado.",
+  "imagenes": [
+   "img/zillow-concepto-web-design-trends-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "no",
+  "tipo": "concepto",
+  "criterios": [],
+  "etiquetas": [
+   "Diseño web",
+   "Concepto UI (no oficial)"
+  ]
+ },
+ {
+  "nombre": "Poklonnaya 9",
+  "url": "https://poklonnaya9.site/",
+  "pais": "Rusia (Moscú)",
+  "nota": "Fondo negro, nombre gigante en tipografía fina que cruza la imagen nocturna del edificio, selector de apartamentos y 'Request a call'. Awwwards SOTD (Vide Infra).",
+  "imagenes": [
+   "img/poklonnaya-9-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "concepto",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Similar a: Vanity Estates",
+   "Similar a: Zillow (concepto)",
+   "Diseño web",
+   "Lujo oscuro"
+  ]
+ },
+ {
+  "nombre": "Silver Pinewood Residences",
+  "url": "https://silver-pinewood.com/",
+  "pais": "Rusia",
+  "nota": "Título enorme sans fino sobre foto a pantalla completa de la torre al atardecer, 'Quiet luxury'; tonos grises/bronce, menú mínimo. Awwwards SOTD.",
+  "imagenes": [
+   "img/silver-pinewood-residences-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Similar a: Vanity Estates",
+   "Diseño web",
+   "Lujo"
+  ]
+ },
+ {
+  "nombre": "Tbilisi Gardens",
+  "url": "https://tbilisigardens.ge/en",
+  "pais": "Georgia",
+  "nota": "Se recorre el edificio con scroll/drag/flechas, contador de número de piso y acceso a planos de apartamentos. Awwwards SOTD.",
+  "imagenes": [
+   "img/tbilisi-gardens-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "recorrido"
+  ],
+  "etiquetas": [
+   "Similar a: Bernabéu Ático",
+   "Diseño web",
+   "Recorrido por scroll"
+  ]
+ },
+ {
+  "nombre": "SERHANT.",
+  "url": "https://serhant.com/",
+  "pais": "EE.UU.",
+  "nota": "Hero centrado con titular grande 'Make a Move For Your Future', pestañas Buy/Rent/Sell/Agents y buscador sobre foto oscura.",
+  "imagenes": [
+   "img/serhant-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "real",
+  "criterios": [],
+  "etiquetas": [
+   "Similar a: FIND",
+   "Diseño web"
+  ]
+ },
+ {
+  "nombre": "Compass",
+  "url": "https://www.compass.com/",
+  "pais": "EE.UU.",
+  "nota": "Hero con titular centrado sobre foto de casa, buscador Buy/Rent/Sell y carrusel de exclusivas.",
+  "imagenes": [
+   "img/compass-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "real",
+  "criterios": [],
+  "etiquetas": [
+   "Similar a: FIND",
+   "Diseño web"
+  ]
+ }
+]
