@@ -465,5 +465,85 @@
    "Similar a: FIND",
    "Diseño web"
   ]
+ },
+ {
+  "nombre": "HavenHues (concepto, remusa.design)",
+  "url": "https://remusa.agency",
+  "pais": "EAU (Dubái)",
+  "nota": "Hero claro con casa moderna sobre césped, 'Unlock the Door to Your Next Chapter', métricas 10K+ listings / 5K+ familias, CTA verde lima. La empresa real HavenHues (havenhues.ae) existe pero su web es otra: no coincide.",
+  "imagenes": [
+   "img/havenhues-concepto-remusa-design-0.webp",
+   "img/havenhues-concepto-remusa-design-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "no",
+  "tipo": "concepto",
+  "criterios": [],
+  "etiquetas": [
+   "Diseño web",
+   "Concepto UI (no sitio real)",
+   "Claro",
+   "Acento verde lima"
+  ]
+ },
+ {
+  "nombre": "LUXESTATE (concepto, dxasad.design)",
+  "url": "https://www.instagram.com/dxasad.design/",
+  "pais": "—",
+  "nota": "'Build Your Future' con 'Future' gigante sobre villas tropicales, menú en píldora glass, Sign up verde lima.",
+  "imagenes": [
+   "img/luxestate-concepto-dxasad-design-0.webp",
+   "img/luxestate-concepto-dxasad-design-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "no",
+  "tipo": "concepto",
+  "criterios": [],
+  "etiquetas": [
+   "Diseño web",
+   "Concepto UI (no sitio real)",
+   "Tipografía gigante",
+   "Menú glass"
+  ]
+ },
+ {
+  "nombre": "RR Residences / Villa (concepto IA, builtbyruturaj)",
+  "url": "https://www.instagram.com/builtbyruturaj/",
+  "pais": "—",
+  "nota": "'ONE LINE. AN ENTIRE HOME.': línea dorada animada que dibuja la casa del plano al horizonte al hacer scroll; barra de navegación inferior en píldora. r-residence.com (edificio en Dubai South) no coincide.",
+  "imagenes": [
+   "img/rr-residences-villa-concepto-ia-builtbyr-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "no",
+  "tipo": "concepto",
+  "criterios": [
+   "scroll",
+   "recorrido"
+  ],
+  "etiquetas": [
+   "Diseño web",
+   "Concepto UI hecho con IA",
+   "Recorrido por scroll"
+  ]
+ },
+ {
+  "nombre": "Housen (concepto, juicelab.uiux)",
+  "url": "https://www.instagram.com/juicelab.uiux/",
+  "pais": "—",
+  "nota": "'HOUSEN' gigante detrás de casa orgánica curva, hotspots con etiquetas glass, menú píldora, 'Book Now' naranja, 'Featured Properties' en serif itálica.",
+  "imagenes": [
+   "img/housen-concepto-juicelab-uiux-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "no",
+  "tipo": "concepto",
+  "criterios": [],
+  "etiquetas": [
+   "Diseño web",
+   "Concepto UI (no sitio real)",
+   "Tipografía gigante",
+   "Hotspots glass"
+  ]
  }
 ]
