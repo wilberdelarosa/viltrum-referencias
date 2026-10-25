@@ -600,5 +600,113 @@
    "Acento script",
    "Tarjetas de servicios"
   ]
+ },
+ {
+  "nombre": "Mejuma Tuscany",
+  "url": "https://mejuma-tuscany.com/",
+  "pais": "Italia (Toscana)",
+  "nota": "Awwwards Nominee (Tom de Koning). Agencia boutique de compra de casas en la Toscana: hero con foto aérea de una finca a pantalla completa y el nombre 'mejuma' en serif gigante blanco encima; copy corto 'personal guidance every step of the buying journey' y CTA pastilla amarilla 'Explore our properties'; al hacer scroll el menú se convierte en pastilla flotante translúcida con blur; marquesina serif gigante 'Selected properties' sobre fondo gris claro y tarjetas de propiedades con foto grande; bloque 'How it works'.",
+  "imagenes": [
+   "img/mejuma-tuscany-0.webp",
+   "img/mejuma-tuscany-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "broker",
+   "tipo",
+   "glass"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Broker / agencia boutique",
+   "Tipografía gigante",
+   "Serif sobre foto a pantalla completa",
+   "Menú pastilla glass",
+   "Lujo"
+  ]
+ },
+ {
+  "nombre": "Quinta D. Amália",
+  "url": "https://www.quintadamalia.com/",
+  "pais": "Portugal",
+  "nota": "Awwwards Honorable Mention 16-sep-2026 (DEMARCA). Desarrollo de apartamentos de lujo: hero totalmente blanco con titular serif enorme 'Where luxury meets serenity' sobre un orbe de degradado borroso (verde-amarillo-coral), menú en pastilla blanca centrada con sombra suave y CTA pastilla negra 'Say Hello'; al hacer scroll, carrusel de fotos en arco curvo y titular 'A Vision of Timeless Elegance' que se revela palabra a palabra (gris → negro); secciones About, Apartments, Lifestyle.",
+  "imagenes": [
+   "img/quinta-d-am-lia-0.webp",
+   "img/quinta-d-am-lia-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades",
+   "tipo",
+   "glass"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Honorable Mention",
+   "Desarrollo residencial",
+   "Limpio blanco",
+   "Blur / degradado suave",
+   "Serif gigante",
+   "Menú pastilla"
+  ]
+ },
+ {
+  "nombre": "Loam House",
+  "url": "https://residences.loamhouse.com.au",
+  "pais": "Australia (Sandringham, Melbourne)",
+  "nota": "Awwwards Honorable Mention 24-sep-2026 (FrontageDigital). Lanzamiento final de 88 residencias: hero con render al atardecer a pantalla completa, titular serif 'House-sized.' + itálica dorada 'Bayside living.', precio desde $850,000 y m²; panel oscuro translúcido de captación (nombre, email → 'Send me the brochure', cita privada, llamada); botones pastilla con blur 'Download the brochure' / 'Book an appointment' en el menú; sección 01 'Leave the upkeep. Keep the life.' con cifras grandes (88 residencias, 86–275 m², 3 min a la playa); menú Proposition, Size, Storage, Finishes, Precinct, Place.",
+  "imagenes": [
+   "img/loam-house-0.webp",
+   "img/loam-house-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades",
+   "glass"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Honorable Mention",
+   "Desarrollo residencial",
+   "Foto a pantalla completa",
+   "Glass / blur",
+   "Serif + itálica",
+   "Captación de leads"
+  ]
+ },
+ {
+  "nombre": "Cloe Birchett (Dribbble, Hazir Labs)",
+  "url": "https://www.cloebirchett.com/",
+  "pais": "EE.UU. (Berkeley, California)",
+  "nota": "Shot de Dribbble de Hazir Labs ('Realtor Website Design | Bay Area Compass Agent'). Web de agente Compass: hero con foto aérea de Berkeley a pantalla completa con velo suave, nombre en serif mayúsculas 'CLOE BIRCHETT', subtítulo 'Your Bay Area real estate matchmaker', DRE y CTA de contorno; luego paleta crema/arena con retrato y 'From fixer-uppers to dream homes'; bloque 'Berkeley real estate, thoughtfully done.'; servicios Buying / Selling / Renovation.",
+  "imagenes": [
+   "img/cloe-birchett-dribbble-hazir-labs-0.webp",
+   "img/cloe-birchett-dribbble-hazir-labs-1.webp",
+   "img/cloe-birchett-dribbble-hazir-labs-2.webp",
+   "img/cloe-birchett-dribbble-hazir-labs-3.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "broker"
+  ],
+  "etiquetas": [
+   "Dribbble",
+   "Broker personal",
+   "Limpio crema",
+   "Serif mayúsculas",
+   "Foto a pantalla completa"
+  ]
  }
 ]
