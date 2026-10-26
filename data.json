@@ -708,5 +708,78 @@
    "Serif mayúsculas",
    "Foto a pantalla completa"
   ]
+ },
+ {
+  "nombre": "Lenval Properties",
+  "url": "https://lenvalproperties.com",
+  "pais": "EAU (Abu Dabi)",
+  "nota": "Awwwards Nominee (The First The Last). Desarrolladora boutique de residencias y hospitality (Jubail Island, Palm): hero con video cinematográfico a pantalla completa (arena y conchas → cocina de travertino y ónix) y titular serif blanco 'Creators of Refined Living & Iconic Spaces' abajo a la derecha; logo LENVAL fino espaciado centrado, menú mínimo en mayúsculas, reloj '17:05 UAE' y CTA 'Let's talk'; al hacer scroll, paneles marrón chocolate con titular serif 'Living', foto de interior y bloque Mission.",
+  "imagenes": [
+   "img/lenval-properties-0.webp",
+   "img/lenval-properties-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Desarrolladora",
+   "Lujo cálido",
+   "Video a pantalla completa",
+   "Serif"
+  ]
+ },
+ {
+  "nombre": "Azimute Residencial (ASL)",
+  "url": "https://azimuteresidencial.com.br/",
+  "pais": "Brasil (Vila Vitória, Mauá-SP)",
+  "nota": "Awwwards Nominee (gmxdigital). Torre residencial de la constructora ASL: intro animada que abre a render del edificio al atardecer a pantalla completa, titular 'SEU PRÓXIMO' en serif mayúsculas + 'horizonte.' en itálica serif gigante que se superpone al edificio (efecto texto delante/detrás del objeto); copy corto 'Uma nova direção para morar', CTA circular 'Conheça o Azimute', botón 'Pular abertura' y conmutador 'Animações'; menú O projeto, Perspectiva, Essência, Residências, Espaços.",
+  "imagenes": [
+   "img/azimute-residencial-asl-0.webp",
+   "img/azimute-residencial-asl-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Awwwards",
+   "Desarrollo residencial",
+   "Serif gigante + itálica",
+   "Render a pantalla completa",
+   "Scroll cinematográfico"
+  ]
+ },
+ {
+  "nombre": "MAG World Properties (web real)",
+  "url": "https://magproperties-estate.com/en/",
+  "pais": "Polonia (Cracovia)",
+  "nota": "Agencia de Cracovia que vende obra nueva en España, EAU, Chipre, etc.: hero con foto nocturna de piscina infinita a pantalla completa, titular serif centrado 'Premium Property Abroad — Built Around Your Goal' (con 'Your Goal' en itálica), CTA pastilla verde menta 'Get a consultation'; menú en pastilla translúcida con blur (Properties, Countries, Developers, Blog, About us) y botón 'Contact Us'; luego fondo crema con titulares serif + itálica beige y fotos con esquinas redondeadas.",
+  "imagenes": [
+   "img/mag-world-properties-web-real-0.webp",
+   "img/mag-world-properties-web-real-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "broker",
+   "glass"
+  ],
+  "etiquetas": [
+   "Broker / agencia internacional",
+   "Menú pastilla glass",
+   "Glass / blur",
+   "Serif + itálica",
+   "Foto a pantalla completa"
+  ]
  }
 ]
