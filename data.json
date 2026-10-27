@@ -781,5 +781,83 @@
    "Serif + itálica",
    "Foto a pantalla completa"
   ]
+ },
+ {
+  "nombre": "The (eight) (Behance, iFRAME Design Studio)",
+  "url": "https://the8project.com/",
+  "pais": "Grecia (Pogonia, Paleros)",
+  "nota": "Proyecto de 8 villas sostenibles frente al mar Jónico: hero con video a pantalla completa y titular grande sans con «of» en itálica serif, menú mínimo (The Project, Villas, Sustainability, Story, Opportunity, Location, Gallery, Contact) y CTA pastilla blanca 'Enquiry'; al hacer scroll aparece un «(8)» gigante centrado y las fotos de las villas y piscinas flotan alrededor con parallax; luego bloque blanco limpio de sostenibilidad y la historia en 3 actos (The Hero, The Setting, The Resolution).",
+  "imagenes": [
+   "img/the-eight-behance-iframe-design-studio-0.webp",
+   "img/the-eight-behance-iframe-design-studio-1.webp",
+   "img/the-eight-behance-iframe-design-studio-2.webp",
+   "img/the-eight-behance-iframe-design-studio-3.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "mapa"
+  ],
+  "etiquetas": [
+   "Behance",
+   "Desarrollo residencial",
+   "Villas de lujo",
+   "Video a pantalla completa",
+   "Sans + itálica serif",
+   "Awwwards Honors",
+   "Lujo oscuro"
+  ]
+ },
+ {
+  "nombre": "Spectre Miami (web real)",
+  "url": "https://spectremiami.com/",
+  "pais": "EE. UU. (Miami, Edgewater)",
+  "nota": "Web de la torre Spectre Miami (Martinez Developments, 2731 NE 2nd Ave): fondo crema limpio, titular serif fino 'Spectre / Miami / Residences' con 'Miami' en itálica dorada, render vertical de la torre enmarcado a la derecha con etiqueta 'VUE 01 — FRONT', reloj 'Currently in Miami', selector EN/ES/PT y menú '+'; al hacer scroll, bloque editorial 'A new silhouette on the skyline' con foto nocturna de balcones curvos y 4 datos (Curved Balconies, Dark Glass Facade, Iconic Silhouette, Monolithic Form).",
+  "imagenes": [
+   "img/spectre-miami-web-real-0.webp",
+   "img/spectre-miami-web-real-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial",
+   "Limpio blanco / crema",
+   "Serif + itálica",
+   "Editorial",
+   "Multi-idioma"
+  ]
+ },
+ {
+  "nombre": "MVC Properties (Mallorca)",
+  "url": "https://mvc-properties.com",
+  "pais": "España (Palma y Calvià, Mallorca)",
+  "nota": "Inmobiliaria premium de Mallorca: hero con foto aérea de villa blanca con piscina infinita sobre el acantilado a pantalla completa, titular serif blanco 'Your Home in the Mediterranean' / 'Su Hogar en el Mediterráneo', CTA verde azulado 'Explore properties'; al hacer scroll, fichas grandes de propiedades con foto redondeada a la izquierda y panel blanco con zona, título serif, m², dormitorios, baños y precio; timeline de propiedades destacadas, filtros, chat y formulario de contacto glass sobre la catedral; ES/EN/DE.",
+  "imagenes": [
+   "img/mvc-properties-mallorca-0.webp",
+   "img/mvc-properties-mallorca-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "broker",
+   "glass"
+  ],
+  "etiquetas": [
+   "Broker / agencia de lujo",
+   "Foto a pantalla completa",
+   "Serif",
+   "Glass / blur",
+   "Multi-idioma",
+   "Fichas de propiedad"
+  ]
  }
 ]
