@@ -797,8 +797,7 @@
   "coincide": "si",
   "tipo": "real",
   "criterios": [
-   "scroll",
-   "mapa"
+   "scroll"
   ],
   "etiquetas": [
    "Behance",
