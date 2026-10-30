@@ -259,28 +259,6 @@
   ]
  },
  {
-  "nombre": "Bernabéu Ático (collective.ia)",
-  "url": "https://bernabeu-atico.vercel.app",
-  "pais": "España (Madrid)",
-  "nota": "Landing de una sola vivienda (Dúplex Bernabéu, Castellana): recorrido por scroll ('Desliza para recorrer la casa') planta por planta con renders, cifras clave (2 plantas, 2 dormitorios, 3 baños, piscina), planos de la vivienda y CTA 'Solicitar visita'. Comparación visual: el reel muestra la URL bernabeu-atico.vercel.app, logo 'BERNABÉU' arriba a la izquierda y el mismo salón blanco que la web.",
-  "imagenes": [
-   "img/bernab-u-tico-collective-ia-0.webp",
-   "img/bernab-u-tico-collective-ia-1.webp",
-   "img/bernab-u-tico-collective-ia-2.webp"
-  ],
-  "estandar": false,
-  "coincide": "si",
-  "tipo": "real",
-  "criterios": [
-   "scroll",
-   "amenidades"
-  ],
-  "etiquetas": [
-   "Diseño web",
-   "Preventa / vender antes de construir"
-  ]
- },
- {
   "nombre": "FIND (concepto, web.love.ed)",
   "url": "https://www.findrealestate.com/",
   "pais": "EE.UU. (Nueva York)",
@@ -857,6 +835,121 @@
    "Glass / blur",
    "Multi-idioma",
    "Fichas de propiedad"
+  ]
+ },
+ {
+  "nombre": "Kaori Luxury Real Estate (Kaori Nagao, Las Vegas)",
+  "url": "https://kaoriluxuryrealestate.com",
+  "pais": "EE. UU. (Las Vegas)",
+  "nota": "Web de agente de Sotheby’s: abre con video nocturno de una residencia moderna a pantalla completa, logo de firma manuscrita centrado, menú mínimo (About, Properties, Neighborhoods, Blog, Let’s Connect) y titular serif «Your Connection to Exceptional…»; luego pasa a un layout editorial blanco con mucho aire y cifras de confianza (6 años, $210M+, 257 transacciones).",
+  "imagenes": [
+   "img/kaori-luxury-real-estate-kaori-nagao-las-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker"
+  ],
+  "etiquetas": [
+   "Broker personal",
+   "Agente de lujo",
+   "Video a pantalla completa",
+   "Serif",
+   "Editorial",
+   "Lujo oscuro"
+  ]
+ },
+ {
+  "nombre": "Jade Mills Estates (Beverly Hills)",
+  "url": "https://www.jademills.com",
+  "pais": "EE. UU. (Beverly Hills, CA)",
+  "nota": "Hero nocturno a pantalla completa con la ciudad iluminada, nombre en serif fino muy espaciado, eyebrow «The 9 Billion Dollar Woman», línea «Coldwell Banker Global Luxury Ambassador» y un solo botón oscuro «Search All Homes». Restricción total: una foto, un nombre, un CTA.",
+  "imagenes": [
+   "img/jade-mills-estates-beverly-hills-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker"
+  ],
+  "etiquetas": [
+   "Broker personal",
+   "Agente de lujo",
+   "Foto/video a pantalla completa",
+   "Serif fino",
+   "Lujo oscuro",
+   "Guías de barrio"
+  ]
+ },
+ {
+  "nombre": "Carlin Wright (Nueva York)",
+  "url": "https://www.carlinwright.com",
+  "pais": "EE. UU. (Nueva York)",
+  "nota": "Web de agente con estética editorial en blanco y negro: video de marca a pantalla completa (escena de estilo de vida, no de casa), monograma «CW» fino centrado y menú en mayúsculas espaciadas (Properties, Home Search, About Carlin, Neighborhoods, Real Estate Insights, Let’s Connect).",
+  "imagenes": [
+   "img/carlin-wright-nueva-york-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker"
+  ],
+  "etiquetas": [
+   "Broker personal",
+   "Agente de lujo",
+   "Video a pantalla completa",
+   "Editorial blanco y negro",
+   "Guías de barrio"
+  ]
+ },
+ {
+  "nombre": "21 Oaks (Columbia, SC)",
+  "url": "https://21oaks.org/",
+  "pais": "EE. UU. (Columbia, Carolina del Sur)",
+  "nota": "Residencial de alquiler renovado: foto interior luminosa a pantalla completa, titular serif blanco grande «Live better, closer to USC», botones pastilla lila translúcidos (Schedule a Tour, Apply Now) y mini galería de miniaturas abajo a la derecha. Claro, limpio y con CTA directo de agendar visita.",
+  "imagenes": [
+   "img/21-oaks-columbia-sc-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "glass"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial",
+   "Alquileres",
+   "Foto a pantalla completa",
+   "Serif",
+   "Limpio claro",
+   "Glass / blur",
+   "Awwwards Nominee"
+  ]
+ },
+ {
+  "nombre": "AllHaus / Modern Craft (Arizona, Colorado, Montana)",
+  "url": "https://moderncraftaz.com/",
+  "pais": "EE. UU. (AZ, CO, MT)",
+  "nota": "Hero con foto al atardecer de casa moderna con piscina infinita y velo morado, titular sans fino gigante «Unparalleled service for exceptional homes» y un selector de ubicación elegante («Select LOCATION» en itálica serif + AZ · CO · MT) como primera acción.",
+  "imagenes": [
+   "img/allhaus-modern-craft-arizona-colorado-mo-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "tipo"
+  ],
+  "etiquetas": [
+   "Constructora / desarrollador",
+   "Casas de lujo",
+   "Foto a pantalla completa",
+   "Titular gigante",
+   "Selector de ubicación",
+   "Lujo oscuro"
   ]
  }
 ]
