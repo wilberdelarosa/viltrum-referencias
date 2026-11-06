@@ -951,5 +951,91 @@
    "Selector de ubicación",
    "Lujo oscuro"
   ]
+ },
+ {
+  "nombre": "Sara in NYC (Sara Schwartz, Corcoran)",
+  "url": "https://sarainnyc.com/",
+  "pais": "EE. UU. (Nueva York)",
+  "nota": "Hero con video aéreo del puerto de Nueva York al atardecer, nombre en serif fino centrado y un único CTA «Contact» en contorno; menú minimalista. Más editorial/cinemático que el estándar Andris (oscuro, sin blur glass).",
+  "imagenes": [
+   "img/sara-in-nyc-sara-schwartz-corcoran-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "broker"
+  ],
+  "etiquetas": [
+   "Broker personal",
+   "Video a pantalla completa",
+   "Serif elegante",
+   "Estilo editorial"
+  ]
+ },
+ {
+  "nombre": "Josh Flagg (Los Angeles)",
+  "url": "https://joshflagg.com/",
+  "pais": "EE. UU. (Los Ángeles)",
+  "nota": "Pantalla de entrada blanca con ilustración de la fachada de su oficina, titular serif con efecto de tipeo y botón «Enter»: marca personal muy distintiva, estilo blanco y limpio.",
+  "imagenes": [
+   "img/josh-flagg-los-angeles-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker"
+  ],
+  "etiquetas": [
+   "Broker personal",
+   "Intro animada",
+   "Serif elegante",
+   "Fondo blanco"
+  ]
+ },
+ {
+  "nombre": "Majeli Vassart Properties (Forbes Global Properties)",
+  "url": "https://majelivassart.com/",
+  "pais": "Italia (Lago de Como)",
+  "nota": "Hero con video cinematográfico a pantalla completa (columna clásica y montañas), logo dual Majeli Vassart + Forbes Global Properties, cabecera mínima con línea fina. Referencia del estilo oscuro de lujo tipo Vanity Estates.",
+  "imagenes": [
+   "img/majeli-vassart-properties-forbes-global--0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "broker"
+  ],
+  "etiquetas": [
+   "Brokerage de lujo",
+   "Video a pantalla completa",
+   "Lujo oscuro",
+   "Serif elegante"
+  ]
+ },
+ {
+  "nombre": "Hilton & Hyland (Beverly Hills)",
+  "url": "https://www.hiltonhyland.com/",
+  "pais": "EE. UU. (Beverly Hills)",
+  "nota": "Hero monocromo a pantalla completa con titular serif «The Leading International Luxury Real Estate Brokerage» y CTA discreto; menú con 5 ítems. Estilo oscuro de lujo, muy sobrio.",
+  "imagenes": [
+   "img/hilton-hyland-beverly-hills-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker"
+  ],
+  "etiquetas": [
+   "Brokerage de lujo",
+   "Foto a pantalla completa",
+   "Lujo oscuro",
+   "Serif elegante"
+  ]
  }
 ]
