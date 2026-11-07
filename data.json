@@ -132,28 +132,6 @@
   ]
  },
  {
-  "nombre": "Punta Mita",
-  "url": "https://www.puntamita.com",
-  "pais": "México",
-  "nota": "Comunidad de 1.500 acres en península; fotografía inmersiva y sección Real Estate separada de Rentals/Hotels.",
-  "imagenes": [
-   "img/punta-mita-0.webp"
-  ],
-  "estandar": false,
-  "coincide": "na",
-  "tipo": "real",
-  "criterios": [
-   "mapa",
-   "amenidades"
-  ],
-  "etiquetas": [
-   "mapa",
-   "amenidades",
-   "galería",
-   "video"
-  ]
- },
- {
   "nombre": "Costa Mujeres",
   "url": "https://costamujeres.com/en",
   "pais": "México",
@@ -1036,6 +1014,71 @@
    "Foto a pantalla completa",
    "Lujo oscuro",
    "Serif elegante"
+  ]
+ },
+ {
+  "nombre": "53West53 (MoMA Tower, Nueva York)",
+  "url": "https://53w53.com",
+  "pais": "EE. UU. (Nueva York)",
+  "nota": "Intro con fundido blanco suave (tipo blur) que se revela en un video aéreo del atardecer sobre Central Park con la torre en primer plano; paleta de 2 colores (blanco + taupe #937566), tipografía fina y parallax. Muy cercano al estilo limpio, blanco y pulido que pide Wilber.",
+  "imagenes": [
+   "img/53west53-moma-tower-nueva-york-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "glass"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial",
+   "Torre de lujo",
+   "Video a pantalla completa",
+   "Limpio claro",
+   "Fundido suave (blur)",
+   "Awwwards SOTD"
+  ]
+ },
+ {
+  "nombre": "Carolwood Estates (Los Ángeles)",
+  "url": "https://carolwoodre.com/",
+  "pais": "EE. UU. (Los Ángeles)",
+  "nota": "Hero con interior de lujo a pantalla completa (vestíbulo de mármol y escalera dorada), logo serif fino y un solo botón «Contact Us» en contorno; frase en mayúsculas espaciadas «The #1 independent brokerage in Los Angeles». Según las fuentes, al bajar muestra cifras grandes de inventario off-market.",
+  "imagenes": [
+   "img/carolwood-estates-los-ngeles-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker"
+  ],
+  "etiquetas": [
+   "Brokerage de lujo",
+   "Foto/video a pantalla completa",
+   "Interior",
+   "Tipografía espaciada"
+  ]
+ },
+ {
+  "nombre": "The Agency (Beverly Hills, global)",
+  "url": "https://www.theagencyre.com/",
+  "pais": "EE. UU. (Beverly Hills) · global",
+  "nota": "Video a pantalla completa de carretera costera, titular serif «Your window to the world’s finest real estate» con itálica, pestañas Buy/Sell/Rent y un buscador blanco amplio en el hero. Buen modelo de cómo poner el buscador sin romper la estética de lujo.",
+  "imagenes": [
+   "img/the-agency-beverly-hills-global-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker"
+  ],
+  "etiquetas": [
+   "Brokerage de lujo",
+   "Video a pantalla completa",
+   "Serif elegante",
+   "Buscador en el hero"
   ]
  }
 ]
