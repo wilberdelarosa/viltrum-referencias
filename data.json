@@ -3,7 +3,7 @@
   "nombre": "Andris Peña · Asesor inmobiliario",
   "url": "https://andrispenarealty.com",
   "pais": "RD (Punta Cana)",
-  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR.",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso 2026-11-10: andrispenarealty.com responde 404 («No site here»); las capturas son del 2026-10-24.",
   "estandar": true,
   "coincide": "si",
   "tipo": "real",
@@ -129,6 +129,28 @@
    "galería",
    "video",
    "buscador"
+  ]
+ },
+ {
+  "nombre": "Punta Mita",
+  "url": "https://www.puntamita.com",
+  "pais": "México",
+  "nota": "Comunidad de 1.500 acres en península; fotografía inmersiva y sección Real Estate separada de Rentals/Hotels.",
+  "imagenes": [
+   "img/punta-mita-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "na",
+  "tipo": "real",
+  "criterios": [
+   "mapa",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "mapa",
+   "amenidades",
+   "galería",
+   "video"
   ]
  },
  {
@@ -1079,6 +1101,99 @@
    "Video a pantalla completa",
    "Serif elegante",
    "Buscador en el hero"
+  ]
+ },
+ {
+  "nombre": "Alexa Devaney (The Oppenheim Group, North County San Diego)",
+  "url": "https://www.alexadevaney.com/",
+  "pais": "EE. UU. (San Diego, California)",
+  "nota": "Hero con toma aérea de una casa de lujo a pantalla completa, titular grande «A Family-First Realtor for North County», barra de búsqueda translúcida (efecto glass) con botones «Search Homes» / «Let's Connect» y chips de comunidades populares (Encinitas, Carlsbad, Oceanside, Fallbrook). Logo con tipografía muy espaciada. Muy buen modelo de broker personal con buscador, cercano al estándar Andris.",
+  "imagenes": [
+   "img/alexa-devaney-the-oppenheim-group-north--0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "broker",
+   "glass"
+  ],
+  "etiquetas": [
+   "Broker personal",
+   "Video/foto aérea a pantalla completa",
+   "Buscador en el hero",
+   "Glass / blur",
+   "Tipografía espaciada"
+  ]
+ },
+ {
+  "nombre": "Horizonte Village (Mijas, Costa del Sol)",
+  "url": "https://horizonte-village.com/",
+  "pais": "España (Mijas, Costa del Sol)",
+  "nota": "Entrada con ilustración a línea fina del conjunto y selector «Villas / Residences»; al elegir aparece un hero aéreo a pantalla completa con el nombre «HORIZONTE» en tipografía fina gigante, menú con «Select an object», «General plan» y «Agent portal». Encaja con la idea del masterplan/selector de unidades de Real Estate OS.",
+  "imagenes": [
+   "img/horizonte-village-mijas-costa-del-sol-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial",
+   "Villas y residencias",
+   "Selector de tipología",
+   "Titular gigante",
+   "Foto a pantalla completa",
+   "Awwwards SOTD"
+  ]
+ },
+ {
+  "nombre": "Pyzhevsky (residencial de lujo)",
+  "url": "https://pyzhevsky.estate/",
+  "pais": "No indicado en la fuente",
+  "nota": "Hero en pantalla dividida: degradado oscuro con el nombre en mayúsculas espaciadas, foto editorial pequeña (puño con reloj) y render de las torres a la derecha; accesos «Select an apartment» y «3D area map». Estilo oscuro de lujo tipo Vanity, muy sobrio.",
+  "imagenes": [
+   "img/pyzhevsky-residencial-de-lujo-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "mapa"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial",
+   "Lujo oscuro",
+   "Pantalla dividida",
+   "Parallax",
+   "WebGL"
+  ]
+ },
+ {
+  "nombre": "STILL / FORM (residencia contemporánea)",
+  "url": "https://stillform.homes/",
+  "pais": "No indicado en la fuente",
+  "nota": "Hero luminoso a pantalla completa con una casa blanca contemporánea al atardecer, titular serif «Space, Considered.» y dos enlaces subrayados («Explore Residence», «Experience the Space»); en la imagen del envío el hero tiene marco redondeado sobre un fondo desenfocado (blur). Limpio, claro y pulido.",
+  "imagenes": [
+   "img/still-form-residencia-contempor-nea-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "recorrido"
+  ],
+  "etiquetas": [
+   "Residencia de lujo",
+   "Foto a pantalla completa",
+   "Limpio claro",
+   "Serif elegante",
+   "Recorrido 3D"
   ]
  }
 ]
