@@ -3,7 +3,7 @@
   "nombre": "Andris Peña · Asesor inmobiliario",
   "url": "https://andrispenarealty.com",
   "pais": "RD (Punta Cana)",
-  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso 2026-11-10: andrispenarealty.com responde 404 («No site here»); las capturas son del 2026-10-24.",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11 (2 reintentos); se mantiene como estándar con las capturas del 2026-10-24.",
   "estandar": true,
   "coincide": "si",
   "tipo": "real",
@@ -862,7 +862,7 @@
  },
  {
   "nombre": "Jade Mills Estates (Beverly Hills)",
-  "url": "https://www.jademills.com",
+  "url": "https://jademillsestates.com/",
   "pais": "EE. UU. (Beverly Hills, CA)",
   "nota": "Hero nocturno a pantalla completa con la ciudad iluminada, nombre en serif fino muy espaciado, eyebrow «The 9 Billion Dollar Woman», línea «Coldwell Banker Global Luxury Ambassador» y un solo botón oscuro «Search All Homes». Restricción total: una foto, un nombre, un CTA.",
   "imagenes": [
@@ -1194,6 +1194,96 @@
    "Limpio claro",
    "Serif elegante",
    "Recorrido 3D"
+  ]
+ },
+ {
+  "nombre": "Casa Momo (apartamentos boutique, Graz)",
+  "url": "https://www.casamomo.at/",
+  "pais": "Austria (Graz)",
+  "nota": "Hero a pantalla completa con el nombre partido en serif gigante: «CASA» arriba a la izquierda y «MOMO» abajo a la derecha, enmarcando la foto/video del interior; subtítulo «Boutique Apartments in the Historic Center of Graz» y botón crema «Book Your Stay». Es el recurso más cercano al «serif gigante» de Andris Peña, aplicado a un proyecto de alquiler.",
+  "imagenes": [
+   "img/casa-momo-apartamentos-boutique-graz-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Apartamentos boutique",
+   "Serif gigante",
+   "Video/foto a pantalla completa",
+   "Tipografía partida",
+   "Minimal cálido"
+  ]
+ },
+ {
+  "nombre": "Watt Property Management (Bangkok)",
+  "url": "https://watt.framer.website/",
+  "pais": "Tailandia (Bangkok)",
+  "nota": "Hero con cielo a pantalla completa y titular fino centrado «Time is a limited asset, let Watt help you free up your time»; header translúcido (glass) con botón Login; al hacer scroll aparece un bloque con degradado azul profundo, collage de fotos superpuestas y el rótulo «BANGKOK» con botón «Our Properties». Limpio, aireado y con transiciones suaves.",
+  "imagenes": [
+   "img/watt-property-management-bangkok-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Gestión de propiedades",
+   "Lujo",
+   "Degradado azul",
+   "Foto a pantalla completa",
+   "Collage de fotos",
+   "Framer"
+  ]
+ },
+ {
+  "nombre": "Monserrate Premium Home Agents (Valencia)",
+  "url": "https://www.monserrateinmobiliaria.com/en/",
+  "pais": "España (Valencia)",
+  "nota": "Hero luminoso a pantalla completa (interior con vista al mar) con titular serif «Premium Home Agents» con «Home» en itálica, texto de presentación centrado y barra de búsqueda blanca flotante (compra/alquiler, tipo, zona, precio mín./máx., referencia) con botón «Search» en tono arena. Limpio, blanco y pulido; muy buen modelo de agencia con buscador.",
+  "imagenes": [
+   "img/monserrate-premium-home-agents-valencia-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "parcial",
+  "tipo": "real",
+  "criterios": [],
+  "etiquetas": [
+   "Agencia inmobiliaria",
+   "Serif elegante con itálica",
+   "Foto a pantalla completa",
+   "Buscador en el hero",
+   "Limpio claro"
+  ]
+ },
+ {
+  "nombre": "Renee & Kate (Malibu / Westlake Village)",
+  "url": "https://reneeandkate.com/",
+  "pais": "EE. UU. (Malibu y Westlake Village, California)",
+  "nota": "Hero oscuro a pantalla completa (interior de lujo nocturno) con eyebrow «Where exceptional homes meet» y titular serif gigante «EXCEPTIONAL RESULTS», buscador por ciudad/ZIP, monograma R&K en círculo y botón circular «Scroll down»; debajo, secciones con textura de mármol negro y blanco y tarjetas de propiedades con precio en serif. Estilo de lujo oscuro tipo Vanity.",
+  "imagenes": [
+   "img/renee-kate-malibu-westlake-village-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "unidades"
+  ],
+  "etiquetas": [
+   "Equipo de agentes",
+   "Lujo oscuro",
+   "Serif elegante",
+   "Texturas de mármol",
+   "Buscador en el hero",
+   "Comunidades con paneles en ángulo"
   ]
  }
 ]
