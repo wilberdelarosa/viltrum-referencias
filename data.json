@@ -3,7 +3,7 @@
   "nombre": "Andris Peña · Asesor inmobiliario",
   "url": "https://andrispenarealty.com",
   "pais": "RD (Punta Cana)",
-  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11 (2 reintentos); se mantiene como estándar con las capturas del 2026-10-24.",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11 y el 2026-11-12; se mantiene como estándar con las capturas del 2026-10-24.",
   "estandar": true,
   "coincide": "si",
   "tipo": "real",
@@ -1284,6 +1284,119 @@
    "Texturas de mármol",
    "Buscador en el hero",
    "Comunidades con paneles en ángulo"
+  ]
+ },
+ {
+  "nombre": "Olivia Harper Homes (Miami, Florida)",
+  "url": "https://oliviaharperhomes.com/",
+  "pais": "EE. UU. (Miami, Florida)",
+  "nota": "Hero a pantalla completa con interior de lujo y titular gigante «Timeless residences», header con botón glass «Contact Us» y accesos laterales a categorías; al hacer scroll, fondo crema con texto grande de presentación y botón «Last projects». La imagen del envío (móvil) usa una tarjeta con blur sobre la foto, muy en línea con el estándar Andris.",
+  "imagenes": [
+   "img/olivia-harper-homes-miami-florida-0.webp",
+   "img/olivia-harper-homes-miami-florida-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo",
+   "glass"
+  ],
+  "etiquetas": [
+   "Constructora de lujo",
+   "Foto a pantalla completa",
+   "Titular gigante",
+   "Glass / blur",
+   "Limpio cálido"
+  ]
+ },
+ {
+  "nombre": "Luxury Places (Lago Lemán y Alpes, Suiza)",
+  "url": "https://www.luxury-places.ch/",
+  "pais": "Suiza (región del Lago Lemán y los Alpes)",
+  "nota": "Hero blanco y muy limpio con titular fino en mayúsculas «Propriétés de luxe en Suisse», botón negro «Toutes nos propriétés» y carrusel de fotos de propiedades debajo; al hacer scroll, colecciones a pantalla completa como «Propriétés pieds dans l'eau» y «Demeures historiques». Es de las más cercanas al estilo blanco y pulido que pide Wilber.",
+  "imagenes": [
+   "img/luxury-places-lago-lem-n-y-alpes-suiza-0.webp",
+   "img/luxury-places-lago-lem-n-y-alpes-suiza-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Agencia inmobiliaria",
+   "Limpio claro",
+   "Tipografía espaciada",
+   "Carrusel de propiedades",
+   "Colecciones por estilo de vida"
+  ]
+ },
+ {
+  "nombre": "Stellar Management (Nueva York)",
+  "url": "https://www.stellarmanagement.com",
+  "pais": "EE. UU. (Nueva York)",
+  "nota": "Hero aéreo de Manhattan a pantalla completa con titular «We help New Yorkers find home» (home en serif itálica), tarjeta flotante con foto y botón blanco «Rent now»; luego sección blanca «From historic blocks to new» con imagen dentro del texto. Tiene listados de alquiler con vista de mapa y barrios.",
+  "imagenes": [
+   "img/stellar-management-nueva-york-0.webp",
+   "img/stellar-management-nueva-york-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "mapa"
+  ],
+  "etiquetas": [
+   "Desarrolladora y alquileres",
+   "Foto/video aéreo a pantalla completa",
+   "Sans + serif itálica",
+   "Tarjeta flotante",
+   "Mapa de listados"
+  ]
+ },
+ {
+  "nombre": "Arya Bhangy Builders (Kochi, India)",
+  "url": "https://aryabhangybuilders.com/",
+  "pais": "India (Kochi)",
+  "nota": "Hero con video a pantalla completa (fachada con logo y luego interiores) y enlace «View Projects»; al hacer scroll, fondo blanco con párrafo serif grande, cifras clave (15+ años, 10 L sq.ft, 100 %) y tarjeta de proyecto «Luxury Apartments Across Kochi». Sobrio y pulido, con animaciones GSAP.",
+  "imagenes": [
+   "img/arya-bhangy-builders-kochi-india-0.webp",
+   "img/arya-bhangy-builders-kochi-india-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Constructora de lujo",
+   "Video a pantalla completa",
+   "Serif elegante",
+   "Limpio claro",
+   "Cifras clave"
+  ]
+ },
+ {
+  "nombre": "Emarat Realty (Gurugram, India)",
+  "url": "https://www.emaratrealty.com/",
+  "pais": "India (Gurugram)",
+  "nota": "Hero cinematográfico a pantalla completa con render de edificio al atardecer, titular serif fino («Homes that define how you live» / «Building Spaces That Feel Like Home»), logo dorado y menú transparente con botón «Enquiry now» en contorno.",
+  "imagenes": [
+   "img/emarat-realty-gurugram-india-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [],
+  "etiquetas": [
+   "Desarrolladora residencial",
+   "Render a pantalla completa",
+   "Serif elegante",
+   "Atardecer cinematográfico"
   ]
  }
 ]
