@@ -3,7 +3,7 @@
   "nombre": "Andris Peña · Asesor inmobiliario",
   "url": "https://andrispenarealty.com",
   "pais": "RD (Punta Cana)",
-  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11 y el 2026-11-12; se mantiene como estándar con las capturas del 2026-10-24.",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12 y el 2026-11-13; se mantiene como estándar con las capturas del 2026-10-24.",
   "estandar": true,
   "coincide": "si",
   "tipo": "real",
@@ -1397,6 +1397,79 @@
    "Render a pantalla completa",
    "Serif elegante",
    "Atardecer cinematográfico"
+  ]
+ },
+ {
+  "nombre": "Home of Ambrose (Madrid)",
+  "url": "https://www.homeofambrose.com/",
+  "pais": "España (Madrid)",
+  "nota": "Hero con video cálido a pantalla completa y titular sans gigante «Stories ready to live in»; cada proyecto tiene su página con titular enorme («DOUGLAS 1927»), fondo crema y video embebido. Estilo editorial y cálido, muy de revista.",
+  "imagenes": [
+   "img/home-of-ambrose-madrid-0.webp",
+   "img/home-of-ambrose-madrid-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrolladora boutique",
+   "Titular gigante",
+   "Editorial cálido",
+   "Video a pantalla completa",
+   "Fichas de proyecto"
+  ]
+ },
+ {
+  "nombre": "LAGOM Development (Lviv, Ucrania)",
+  "url": "https://lagom-development.com/",
+  "pais": "Ucrania (Lviv)",
+  "nota": "Hero con foto de arquitectura a pantalla completa y logo-titular gigante «LAGOM», header blanco limpio con CTA naranja y botón flotante de llamada; al hacer scroll, foto nocturna de la casa con «Життя у гармонії» y botón de consulta. El envío incluye vista de mapa con la ubicación del proyecto.",
+  "imagenes": [
+   "img/lagom-development-lviv-ucrania-0.webp",
+   "img/lagom-development-lviv-ucrania-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "mapa",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrolladora de casas",
+   "Titular gigante",
+   "Foto a pantalla completa",
+   "Mapa de ubicación",
+   "Limpio claro"
+  ]
+ },
+ {
+  "nombre": "Monarch Custom Homes (Vienna, Virginia)",
+  "url": "https://www.monarch.us/",
+  "pais": "EE. UU. (Vienna, Virginia)",
+  "nota": "Hero con fachada de lujo nocturna a pantalla completa, titular serif blanco «Innovative Design & Quality In Every Monarch Masterpiece» y botón dorado; menú con «360 Virtual Tours»; al hacer scroll, fondo blanco con titular serif y carrusel de proyectos con habitaciones y baños. Útil como ejemplo de recorridos 360 en web de constructora.",
+  "imagenes": [
+   "img/monarch-custom-homes-vienna-virginia-0.webp",
+   "img/monarch-custom-homes-vienna-virginia-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "recorrido"
+  ],
+  "etiquetas": [
+   "Constructora de lujo",
+   "Foto a pantalla completa",
+   "Serif elegante",
+   "Recorridos 360",
+   "Carrusel de proyectos"
   ]
  }
 ]
