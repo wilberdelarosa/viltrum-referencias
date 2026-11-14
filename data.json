@@ -3,7 +3,7 @@
   "nombre": "Andris Peña · Asesor inmobiliario",
   "url": "https://andrispenarealty.com",
   "pais": "RD (Punta Cana)",
-  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12 y el 2026-11-13; se mantiene como estándar con las capturas del 2026-10-24.",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12, el 2026-11-13 y el 2026-11-14 (depuración: curl 404, reintento 404); se mantiene como estándar con las capturas del 2026-10-24.",
   "estandar": true,
   "coincide": "si",
   "tipo": "real",
@@ -1470,6 +1470,127 @@
    "Serif elegante",
    "Recorridos 360",
    "Carrusel de proyectos"
+  ]
+ },
+ {
+  "nombre": "Stone Investment (Mauricio y Provenza)",
+  "url": "https://www.stoneinvestment.fr/en",
+  "pais": "Francia / Mauricio (Provenza e isla Mauricio)",
+  "nota": "Hero a pantalla completa con video/foto cálida (mujer de espaldas hacia una villa frente al mar) y titular serif gigante «The Art of Living» con «of» en itálica, subtítulo «Exceptional residences in Mauritius and Provence» y dos CTA finos («Explore the collection», «Private consultation»); al hacer scroll, fondo blanco con mucho aire, texto centrado gris y carrusel «Signature Selection». Muy cercano al estándar blanco y pulido de Andris.",
+  "imagenes": [
+   "img/stone-investment-mauricio-y-provenza-0.webp",
+   "img/stone-investment-mauricio-y-provenza-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Agencia inmobiliaria de lujo",
+   "Video/foto a pantalla completa",
+   "Serif elegante con itálica",
+   "Limpio claro",
+   "Selección de propiedades"
+  ]
+ },
+ {
+  "nombre": "Range Developments Group (Caribe y EAU)",
+  "url": "https://rangedevelopmentsgroup.com/",
+  "pais": "Caribe y Emiratos Árabes Unidos",
+  "nota": "Hero a pantalla completa con slider de proyectos (villa al atardecer, torre frente al mar) y titular serif fino enorme («A Sanctuary Shaped by Sea & Forests» / «Luxury on an Endless Horizon»), header translúcido con botones en contorno «Be an Agent» y «Get in Touch» y buscador inferior (tipo, habitaciones, país, precio). Al hacer scroll, dos paneles grandes por destino («United Arab Emirates» / «Caribbean»). Buen modelo de desarrolladora multi-destino con buscador.",
+  "imagenes": [
+   "img/range-developments-group-caribe-y-eau-0.webp",
+   "img/range-developments-group-caribe-y-eau-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrolladora de lujo",
+   "Foto a pantalla completa",
+   "Serif fino gigante",
+   "Buscador en el hero",
+   "Paneles por destino",
+   "Webflow"
+  ]
+ },
+ {
+  "nombre": "Polanki · Kameralnie (Gdańsk, Polonia)",
+  "url": "https://kameralnie.com/polanki/",
+  "pais": "Polonia (Gdańsk)",
+  "nota": "Hero con video a pantalla completa de copas de árboles y titular serif gigante partido «MAGIA ULICY POLANKI» (palabras desalineadas), header con marco fino; al hacer scroll, fondo crema con texto centrado sobre la historia de la calle y titular serif verde «Poznaj to miejsce» con foto aérea. Muy en la línea del serif gigante de Andris, con un tono natural y sereno.",
+  "imagenes": [
+   "img/polanki-kameralnie-gda-sk-polonia-0.webp",
+   "img/polanki-kameralnie-gda-sk-polonia-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrollo boutique de apartamentos",
+   "Video a pantalla completa",
+   "Serif gigante",
+   "Tipografía partida",
+   "Storytelling",
+   "Limpio cálido"
+  ]
+ },
+ {
+  "nombre": "Zorge 9 (residencia premium)",
+  "url": "https://zorge9.estate/",
+  "pais": "No indicado en la fuente",
+  "nota": "Hero en pantalla dividida: bloque negro con «Premium residence — the embodiment of your status», retrato editorial de una modelo con vestido negro superpuesto a la foto de las torres al atardecer y el nombre «ZORGE Nº9» gigante en bronce sobre la parte inferior; acceso «Choose an apartment». Estilo oscuro de lujo tipo Vanity, muy de revista de moda.",
+  "imagenes": [
+   "img/zorge-9-residencia-premium-0.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial",
+   "Lujo oscuro",
+   "Titular gigante",
+   "Pantalla dividida",
+   "Retrato editorial",
+   "Parallax"
+  ]
+ },
+ {
+  "nombre": "Kristin Herold (Islamorada, Florida Keys)",
+  "url": "https://kristininthekeys.com/",
+  "pais": "EE. UU. (Islamorada, Florida)",
+  "nota": "Header blanco con monograma KH en rosa y menú fino; hero con foto enmarcada casi a pantalla completa (terraza con piscina frente al mar) y titular serif blanco «Exquisite Homes. Exclusive Islamorada Living.» con botón en contorno; al hacer scroll, bloque blanco con presentación personal, retrato de la agente sobre fondo aguamarina y botón «Learn more» con línea rosa. Limpio, blanco y luminoso; buen modelo de web de agente personal.",
+  "imagenes": [
+   "img/kristin-herold-islamorada-florida-keys-0.webp",
+   "img/kristin-herold-islamorada-florida-keys-1.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Agente inmobiliaria",
+   "Limpio claro",
+   "Serif elegante",
+   "Foto a pantalla completa",
+   "Costero aireado",
+   "Retrato del agente"
   ]
  }
 ]
