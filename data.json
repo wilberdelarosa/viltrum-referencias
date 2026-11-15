@@ -3,7 +3,7 @@
   "nombre": "Andris Peña · Asesor inmobiliario",
   "url": "https://andrispenarealty.com",
   "pais": "RD (Punta Cana)",
-  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12, el 2026-11-13 y el 2026-11-14 (depuración: curl 404, reintento 404); se mantiene como estándar con las capturas del 2026-10-24.",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12, el 2026-11-13, el 2026-11-14 y el 2026-11-15 (depuración: curl 404, reintento 404); se mantiene como estándar con las capturas del 2026-10-24.",
   "estandar": true,
   "coincide": "si",
   "tipo": "real",
@@ -1591,6 +1591,108 @@
    "Foto a pantalla completa",
    "Costero aireado",
    "Retrato del agente"
+  ]
+ },
+ {
+  "nombre": "Stewart & Co Real Estate (Barbados)",
+  "url": "https://stewartcorealty.com/",
+  "pais": "Barbados",
+  "nota": "Hero a pantalla completa con video aéreo de la costa de Barbados (agua turquesa, villas frente al mar) y titular serif fino y espaciado «SELLING LUXURY PROPERTY IN BARBADOS», logo y menú finos en blanco. Al hacer scroll, fondo crema con texto de presentación, buscador limpio en píldoras (ubicación, tipo, habitaciones, baños, precio) y tarjetas grandes de propiedades con precio en USD sobre la foto. Muy cercano al mercado de Wilber (Caribe, lujo, limpio).",
+  "imagenes": [
+   "img/stewart-co-real-estate-barbados-0.webp",
+   "img/stewart-co-real-estate-barbados-1.webp",
+   "img/stewart-co-real-estate-barbados-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "broker"
+  ],
+  "etiquetas": [
+   "Broker de lujo",
+   "Foto/video a pantalla completa",
+   "Serif espaciado",
+   "Buscador de propiedades",
+   "Caribe",
+   "Framer"
+  ]
+ },
+ {
+  "nombre": "The Bend Club (Bend, Oregón)",
+  "url": "https://www.thebendclub.com/",
+  "pais": "EE. UU. (Bend, Oregón)",
+  "nota": "Hero a pantalla completa con render de townhomes junto al río y titular serif grande «Where the River Meets Everything» sobre un degradado/velo suave, logo serif fino y menú centrado; en la imagen de Awwwards el hero va dentro de un panel translúcido tipo glass. Al hacer scroll, fondo crema con texto serif sobre la ubicación («16 luxury townhome residences with concierge programming») y fotos enmarcadas. Limpio, cálido y premium; buen modelo para preventa de proyecto.",
+  "imagenes": [
+   "img/the-bend-club-bend-oreg-n-0.webp",
+   "img/the-bend-club-bend-oreg-n-1.webp",
+   "img/the-bend-club-bend-oreg-n-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades",
+   "glass"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial preventa",
+   "Foto a pantalla completa",
+   "Serif elegante",
+   "Glass / blur",
+   "Limpio cálido"
+  ]
+ },
+ {
+  "nombre": "Primland Residences (Blue Ridge, Virginia)",
+  "url": "https://ownprimland.com/",
+  "pais": "EE. UU. (Virginia)",
+  "nota": "Hero con video a pantalla completa de montañas boscosas y titular serif centrado «A Mountain Home For All Seasons», logo Primland centrado y menú mínimo (Availability / Inquire). Al hacer scroll, fondo crema con ilustraciones de hojas en línea fina, texto serif en mayúsculas sobre la vida en la montaña y fotos enmarcadas (terraza con vista). Sereno, editorial y muy pulido.",
+  "imagenes": [
+   "img/primland-residences-blue-ridge-virginia-0.webp",
+   "img/primland-residences-blue-ridge-virginia-1.webp",
+   "img/primland-residences-blue-ridge-virginia-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial de resort",
+   "Video a pantalla completa",
+   "Serif elegante",
+   "Limpio cálido",
+   "Storytelling"
+  ]
+ },
+ {
+  "nombre": "LET US Ibiza (agencia boutique)",
+  "url": "https://letusibiza.com/",
+  "pais": "España (Ibiza)",
+  "nota": "Fondo terracota con tarjeta crema redondeada y titular sans gigante «Don't play real estate roulette.», miniaturas de propiedades a la derecha y un perro recortado como guiño de marca; botones «View properties» y «About us». Al hacer scroll, listado «Only available on LET US Ibiza» con tarjetas de fotos grandes, precio y datos (m², habitaciones, baños). No es blanco/glass, pero es una muestra clara de agencia con personalidad y copy directo.",
+  "imagenes": [
+   "img/let-us-ibiza-agencia-boutique-0.webp",
+   "img/let-us-ibiza-agencia-boutique-1.webp",
+   "img/let-us-ibiza-agencia-boutique-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Agencia inmobiliaria boutique",
+   "Titular gigante",
+   "Tarjeta crema sobre fondo de color",
+   "Listados con precio",
+   "Tono cercano"
   ]
  }
 ]
