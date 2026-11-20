@@ -3,7 +3,7 @@
   "nombre": "Andris Peña · Asesor inmobiliario",
   "url": "https://andrispenarealty.com",
   "pais": "RD (Punta Cana)",
-  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12, el 2026-11-13, el 2026-11-14 y el 2026-11-15 (depuración: curl 404, reintento 404); se mantiene como estándar con las capturas del 2026-10-24.",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12, el 2026-11-13, el 2026-11-14, el 2026-11-15 y el 2026-11-20 (depuración: curl 404, reintento 404); se mantiene como estándar con las capturas del 2026-10-24.",
   "estandar": true,
   "coincide": "si",
   "tipo": "real",
@@ -1693,6 +1693,112 @@
    "Tarjeta crema sobre fondo de color",
    "Listados con precio",
    "Tono cercano"
+  ]
+ },
+ {
+  "nombre": "Masters Residence · МАСТЕРС (Capital Group, Moscú)",
+  "url": "https://cg-masters.ru/",
+  "pais": "Rusia (Moscú)",
+  "nota": "Hero con render del edificio al atardecer, logo serif «МАСТЕРС» centrado y botón naranja «Выбрать квартиру» (elegir apartamento). Al hacer scroll: slider de renders, bloque de concepto con retrato, sección «Транспортная доступность» con minutos grandes (10 min metro Aeroport, 7 min TTK, 15 min Kremlin…), tour 3D del entorno día/noche, selector de apartamentos y planos. En la imagen de Awwwards destaca la palabra gigante «LOCATION» sobre el render. Muy buen modelo para sección de ubicación con tiempos de traslado.",
+  "imagenes": [
+   "img/masters-residence-capital-group-mosc-0.webp",
+   "img/masters-residence-capital-group-mosc-1.webp",
+   "img/masters-residence-capital-group-mosc-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "mapa",
+   "amenidades",
+   "recorrido",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial premium",
+   "Render 3D cinematográfico",
+   "Serif elegante",
+   "Tipografía gigante",
+   "Ubicación y conectividad",
+   "Tilda"
+  ]
+ },
+ {
+  "nombre": "Union Properties (Dubái, desarrollador desde 1987)",
+  "url": "https://up.ae/",
+  "pais": "EAU (Dubái)",
+  "nota": "Hero a pantalla completa con foto de lifestyle (terraza/piscina con vista a la ciudad) y titular serif con palabra en itálica («Takaya, Excitement at Every Turn»; en Awwwards «The Promise of Motor City»), logo UP rojo y menú fino; abajo, buscador horizontal translúcido tipo glass (precio, comunidad, tipo, dormitorios) con botón rojo «Search property». Al hacer scroll, línea de tiempo horizontal con hitos (1992 Al Loze Villas) sobre fondo blanco. Muy cercano a lo que buscamos: foto grande + buscador glass.",
+  "imagenes": [
+   "img/union-properties-dub-i-desarrollador-des-0.webp",
+   "img/union-properties-dub-i-desarrollador-des-1.webp",
+   "img/union-properties-dub-i-desarrollador-des-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "recorrido",
+   "glass"
+  ],
+  "etiquetas": [
+   "Desarrollador inmobiliario",
+   "Foto a pantalla completa",
+   "Serif con itálica",
+   "Buscador de propiedades",
+   "Glass / blur",
+   "Lujo",
+   "Recorridos 3D"
+  ]
+ },
+ {
+  "nombre": "DUOS Wynwood (condo-hotel, Miami)",
+  "url": "https://duoswynwood.com/",
+  "pais": "EE. UU. (Miami, Florida)",
+  "nota": "Hero a pantalla completa con render del edificio entre palmeras (de día en Awwwards, de noche en la web), logo «DUOS» fino centrado y menú mínimo (Inquire / Downloads / idioma). Al hacer scroll, fondo crema con foto de interiores y bloque «Design & Architecture» con serif e itálica y botón píldora oscuro. Limpio, cálido y muy de Miami; buen modelo para preventa de condo-hotel / alquiler corto.",
+  "imagenes": [
+   "img/duos-wynwood-condo-hotel-miami-0.webp",
+   "img/duos-wynwood-condo-hotel-miami-1.webp",
+   "img/duos-wynwood-condo-hotel-miami-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial / condo-hotel",
+   "Foto a pantalla completa",
+   "Serif con itálica",
+   "Limpio cálido",
+   "Preventa"
+  ]
+ },
+ {
+  "nombre": "Aretè Immobiliare (Umbría, Italia)",
+  "url": "https://www.areteimmobiliare.com/",
+  "pais": "Italia (Umbría)",
+  "nota": "Intro con la palabra «ARETÈ» en sans negra gigante a todo el ancho sobre fondo verde grisáceo y una frase corta arriba a la derecha («sviluppatore immobiliare specializzato in interventi di recupero…»); luego menú a pantalla completa en terracota con enlaces gigantes (Chi siamo, Come lavoriamo, Carriere, Contatti). No es blanco/glass: sirve como ejemplo de tipografía gigante y marca fuerte para desarrolladores.",
+  "imagenes": [
+   "img/aret-immobiliare-umbr-a-italia-0.webp",
+   "img/aret-immobiliare-umbr-a-italia-1.webp",
+   "img/aret-immobiliare-umbr-a-italia-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrollador inmobiliario",
+   "Tipografía gigante",
+   "Minimalista",
+   "Color sólido",
+   "Animación"
   ]
  }
 ]
