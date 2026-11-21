@@ -3,7 +3,7 @@
   "nombre": "Andris Peña · Asesor inmobiliario",
   "url": "https://andrispenarealty.com",
   "pais": "RD (Punta Cana)",
-  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12, el 2026-11-13, el 2026-11-14, el 2026-11-15 y el 2026-11-20 (depuración: curl 404, reintento 404); se mantiene como estándar con las capturas del 2026-10-24.",
+  "nota": "Estándar visual del catálogo. Web de broker personal: tipografía serif gigante detrás del retrato, tarjeta glass con blur, proyectos, mapa interactivo de Punta Cana, modo oscuro e idiomas ES/EN/FR. Aviso: andrispenarealty.com responde 404 («No site here») el 2026-11-10 y sigue en 404 el 2026-11-11, el 2026-11-12, el 2026-11-13, el 2026-11-14, el 2026-11-15, el 2026-11-20 y el 2026-11-21 (depuración: curl 404, reintento 404); se mantiene como estándar con las capturas del 2026-10-24.",
   "estandar": true,
   "coincide": "si",
   "tipo": "real",
@@ -1799,6 +1799,113 @@
    "Minimalista",
    "Color sólido",
    "Animación"
+  ]
+ },
+ {
+  "nombre": "Springs (wellness residences)",
+  "url": "https://springs.estate/",
+  "pais": "No indicado en la web (tiene versión en ruso; estudio Vide Infra)",
+  "nota": "Hero con mosaico inclinado de fotos (torre residencial, naturaleza, agua, retrato) sobre verde profundo, logo «Springs» fino centrado y titular serif grande «Splendor of Renewal» abajo a la derecha, con botón píldora claro. Al hacer scroll el mosaico se mueve y aparecen bloques de amenidades wellness (spa, yoga, fitness, café). Muy pulido; buen modelo de hero editorial con movimiento para un desarrollo de lujo.",
+  "imagenes": [
+   "img/springs-wellness-residences-0.webp",
+   "img/springs-wellness-residences-1.webp",
+   "img/springs-wellness-residences-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial premium",
+   "Wellness",
+   "Mosaico de fotos",
+   "Serif elegante",
+   "Verde profundo",
+   "WebGL / 3D",
+   "Lujo"
+  ]
+ },
+ {
+  "nombre": "Volta SKAI (Endover, Tallin)",
+  "url": "https://voltaskai.endover.ee/en/",
+  "pais": "Estonia (Tallin, según la web: teléfonos +372, «capital’s skyline», promotor Endover)",
+  "nota": "Hero a pantalla completa con foto lifestyle al atardecer y titular serif fino y grande «Homes with a sense of future» dentro de un marco redondeado translúcido (efecto glass), logo SKAI centrado arriba. Al hacer scroll, fondo crema con «A double high-rise at the most coveted seaside address» y fotos de interiores/terrazas. Muy cercano al estilo limpio con blur que busca Wilber.",
+  "imagenes": [
+   "img/volta-skai-endover-tallin-0.webp",
+   "img/volta-skai-endover-tallin-1.webp",
+   "img/volta-skai-endover-tallin-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "amenidades",
+   "glass"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial / torres frente al mar",
+   "Foto a pantalla completa",
+   "Serif fino",
+   "Marco glass / blur",
+   "Limpio cálido",
+   "Lujo"
+  ]
+ },
+ {
+  "nombre": "Verity & Co Homes (Yorkshire y Lancashire)",
+  "url": "https://www.verityandcohomes.com/",
+  "pais": "Reino Unido (Yorkshire y Lancashire)",
+  "nota": "Hero a pantalla completa con foto (casas de piedra en Awwwards, interior con persona en la web) y titular serif centrado «A family builder, crafting new homes with heart» con la palabra «heart» en itálica y subrayado a mano; debajo, buscador blanco por código postal/ciudad con botón dorado «Find your home». Al hacer scroll: casas del mes con precio y «Homeowner stories» con fotos de clientes. Ejemplo claro de buscador integrado en el hero con tono cálido.",
+  "imagenes": [
+   "img/verity-co-homes-yorkshire-y-lancashire-0.webp",
+   "img/verity-co-homes-yorkshire-y-lancashire-1.webp",
+   "img/verity-co-homes-yorkshire-y-lancashire-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll"
+  ],
+  "etiquetas": [
+   "Constructora / desarrollador residencial",
+   "Foto a pantalla completa",
+   "Serif con itálica",
+   "Buscador de propiedades",
+   "Limpio cálido"
+  ]
+ },
+ {
+  "nombre": "INLOVE · Инлав (apartamentos, Vladivostok)",
+  "url": "https://inlove.dviga.marketing/",
+  "pais": "Rusia (Vladivostok)",
+  "nota": "Home sobre fondo azul pizarra con titular «I’m in love with» en serif itálica y «THIS CITY» en sans fina gigante, sello circular de premio y círculo «Change 2nd quarter 2022». Al hacer scroll: ilustraciones/renders de interiores con arcos y bloques «Epicenter of events» en tipografía grande. Según el caso de DVIGA: selector de apartamentos sobre plano 3D y por parámetros, mapa interactivo de entorno y transmisión en vivo de la obra.",
+  "imagenes": [
+   "img/inlove-apartamentos-vladivostok-0.webp",
+   "img/inlove-apartamentos-vladivostok-1.webp",
+   "img/inlove-apartamentos-vladivostok-2.webp"
+  ],
+  "estandar": false,
+  "coincide": "si",
+  "tipo": "real",
+  "criterios": [
+   "scroll",
+   "mapa",
+   "amenidades",
+   "tipo"
+  ],
+  "etiquetas": [
+   "Desarrollo residencial",
+   "Tipografía gigante",
+   "Serif itálica + sans fina",
+   "Fondo oscuro",
+   "Selector de apartamentos 3D",
+   "Mapa interactivo",
+   "Tilda"
   ]
  }
 ]
